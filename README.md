@@ -83,6 +83,4 @@ Olist_Ecommerce_Analytics/
 
 ## 说明
 
-- SQL 文件为项目发布版：保留完整可执行代码，每个阶段仅保留一段中文概述，已移除学习过程中的逐行教学注释。
-- 仓库不包含原始 CSV、SSMS 临时文件、学习截图和本地 Power BI 缓存文件。
 - 项目结构参考了 [Power BI Projects 2](https://github.com/tubakrc/Power_BI_Projects_2)，SQL 实现、分析模型和 Power BI 报告均基于本项目的数据处理与学习成果整理。
